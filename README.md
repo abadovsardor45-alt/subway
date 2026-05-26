@@ -1,1 +1,1 @@
-http://subwaysurfers1.netlify.app/
+https://subwaysurfers1.netlify.app/
